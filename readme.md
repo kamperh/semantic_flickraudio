@@ -7,8 +7,9 @@ This corpus was collected to investigate how a model trained on images paired
 with untranscribed speech could be used to perform semantic keyword spotting (a
 new speech retrieval task). The data set and associated task is described in:
 
-- H. Kamper, S. Settle, G. Shakhnarovich, and K. Livescu, "Semantic keyword
-  spotting by learning from images and speech," 2017.
+- H. Kamper, G. Shakhnarovich, and K. Livescu, "Semantic keyword spotting by
+  learning from images and speech," *arXiv preprint arXiv:1710.01949*, 2017.
+  [[arXiv](https://arxiv.org/abs/1710.01949)]
 
 If you use this data, please cite the above work, as well as the
 [ASRU'15](http://people.csail.mit.edu/dharwath/papers/Harwath_ASRU-15.pdf)
