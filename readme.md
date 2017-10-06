@@ -51,7 +51,7 @@ original Flickr8k image corpus can be obtained
 [here](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html).
 Please cite these studies as well when using our corpus.
 
-Semantic labels are only available for 1000 test utterances in the corpus, one
+Semantic labels were collected only for 1000 test utterances in the corpus, one
 for each unique test image in Flickr8k.
 
 
